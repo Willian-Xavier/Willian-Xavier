@@ -1,6 +1,9 @@
-### Olá, me chamo Willian Xavier! 👋
-🌱 Atualmente econtro-me cursando Análise e Desenvolvimento de Sistemas.
-🔭 Estudando LLMs e tecnologias voltadas à área de inteligência artificial.
+### Olá, me chamo Willian Xavier! 👋  
+
+🌱 Atualmente econtro-me cursando Análise e Desenvolvimento de Sistemas.  
+
+🔭 Estudando LLMs e tecnologias voltadas à área de inteligência artificial.  
+
 📫 E-mail: willian203@hotmail.com
 
 <!--
