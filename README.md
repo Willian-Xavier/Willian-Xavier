@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá, me chamo Willian Xavier! 👋
+🌱 Atualmente econtro-me cursando Análise e Desenvolvimento de Sistemas.
+🔭 Estudando LLMs e tecnologias voltadas à área de inteligência artificial.
+📫 E-mail: willian203@hotmail.com
 
 <!--
 **Willian-Xavier/Willian-Xavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
