@@ -1,7 +1,14 @@
 ### Olá, me chamo Willian Xavier! 👋  
 
-🌱 Atualmente cursando Análise e Desenvolvimento de Sistemas e aprendendo linguagens com Python, Java.  
-🔭 Estudando LLMs e tecnologias voltadas à área de inteligência artificial.  
+🌱 Atualmente cursando Análise e Desenvolvimento de Sistemas e aprendendo linguagens como Python e Java;  
+🔭 Estudando LLMs e tecnologias voltadas à área de inteligência artificial;  
+📫 E-mail: willian203@hotmail.com
+
+---------------------------------------------------------------------------------------------------
+
+### Hi there, I'm Willian Xavier! 👋
+🌱 I'm currently studying Analysis and Systems Development and learning programming languages like Python and Java;  
+🔭 I'm studying LLMs and artificial intelligence technologies;  
 📫 E-mail: willian203@hotmail.com
 
 <!--
